@@ -1,0 +1,21 @@
+body{
+  background-color: #98FB98;
+
+}
+.abdi{
+  background-color: #191970;
+  color: white;
+}
+h1{
+  text-align: center;
+  font-family: sans-serif;
+
+}
+.muuse{
+  text-align: center;
+  font-family: monospace;
+  border: solid 2px black;
+  border-width: medium;
+  
+
+}
